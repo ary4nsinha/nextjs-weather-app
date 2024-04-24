@@ -5,12 +5,12 @@
   npx create-next-app@latest weather-app
 ```
 
-
+# Running the project
 ``` cmd
   npm run dev
 ```
 
-JS Object for mapping iconCode with images
+# JS Object for mapping iconCode with images
 ``` javascript
 const weatherIcons = {
       "01d": "clear-day.png",
