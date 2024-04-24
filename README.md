@@ -1,2 +1,3 @@
 # nextjs-weather-app
- nextjs-weather-app
+ 
+  npx create-next-app@latest
