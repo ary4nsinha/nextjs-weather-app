@@ -36,8 +36,8 @@ const weatherIcons = {
 <br/>
   # Links
 
-- **OpenWeatherMap weather conditions:** OpenWeatherMap weather conditions: [https://openweathermap.org/weather-conditions](https://openweathermap.org/weather-conditions)
-- **Image assets for the project:** Image assets for the project: [https://drive.google.com/drive/folders/1hNb4PRr_6VP3EBmik6s9fmY2RL-HZh81?usp=drive_link](https://drive.google.com/drive/folders/1hNb4PRr_6VP3EBmik6s9fmY2RL-HZh81?usp=drive_link)
+- **OpenWeatherMap weather conditions:** [https://openweathermap.org/weather-conditions](https://openweathermap.org/weather-conditions)
+- **Image assets for the project:** [https://drive.google.com/drive/folders/1hNb4PRr_6VP3EBmik6s9fmY2RL-HZh81?usp=drive_link](https://drive.google.com/drive/folders/1hNb4PRr_6VP3EBmik6s9fmY2RL-HZh81?usp=drive_link)
 
 
 
