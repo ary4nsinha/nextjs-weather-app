@@ -13,7 +13,7 @@
     "@fortawesome/free-solid-svg-icons": "^6.5.2",
     "@fortawesome/react-fontawesome": "^0.2.0",
     "font-awesome": "^4.7.0",
-    "next": "14.2.2",
+    "next": "14.2.15",
     "react": "^18",
     "react-dom": "^18"
   },
